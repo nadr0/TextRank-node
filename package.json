@@ -1,0 +1,18 @@
+{
+  "name": "textrank",
+  "version": "1.0.2",
+  "description": "TextRank javascript implementation for automatic text summarization",
+  "main": "TextRank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TextRank",
+    "Automatic",
+    "Summarization",
+    "Text",
+    "Summary"
+  ],
+  "author": "Kevin Nadro",
+  "license": "ISC"
+}
